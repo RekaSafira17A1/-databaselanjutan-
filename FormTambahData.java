@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ASUS
+ * @author reka
  */
 public class FormTambahData extends javax.swing.JFrame {
 
